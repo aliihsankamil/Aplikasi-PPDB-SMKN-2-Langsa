@@ -1,0 +1,4 @@
+[04-Jun-2020 04:14:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'smknlan_ppdb'@'localhost' to database 'smknlan_db_ppdb' in /home/smknlan/ppdb.smkn2langsa.sch.id/inc/config.php on line 2
+[04-Jun-2020 04:14:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'smknlan_ppdb'@'localhost' to database 'smknlan_db_ppdb' in /home/smknlan/ppdb.smkn2langsa.sch.id/inc/config.php on line 2
+[04-Jun-2020 04:14:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'smknlan_ppdb'@'localhost' to database 'smknlan_db_ppdb' in /home/smknlan/ppdb.smkn2langsa.sch.id/inc/config.php on line 2
+[04-Jun-2020 04:15:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'smknlan_ppdb'@'localhost' to database 'smknlan_db_ppdb' in /home/smknlan/ppdb.smkn2langsa.sch.id/inc/config.php on line 2

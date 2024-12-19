@@ -1,0 +1,99 @@
+[15-Jun-2020 06:25:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/DaftarUlang/DaftarUlang.php on line 344
+[15-Jun-2020 06:26:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/DaftarUlang/DaftarUlang.php on line 344
+[15-Jun-2020 10:12:37 Asia/Jakarta] PHP Warning:  include(../../../inc/config.php): failed to open stream: No such file or directory in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:12:37 Asia/Jakarta] PHP Warning:  include(../../../inc/config.php): failed to open stream: No such file or directory in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:12:37 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../../inc/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:12:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 103
+[15-Jun-2020 10:12:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 182
+[15-Jun-2020 10:12:58 Asia/Jakarta] PHP Warning:  include(../../../inc/config.php): failed to open stream: No such file or directory in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:12:58 Asia/Jakarta] PHP Warning:  include(../../../inc/config.php): failed to open stream: No such file or directory in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:12:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../../inc/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:12:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 103
+[15-Jun-2020 10:12:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 182
+[15-Jun-2020 10:12:59 Asia/Jakarta] PHP Warning:  include(../../../inc/config.php): failed to open stream: No such file or directory in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:12:59 Asia/Jakarta] PHP Warning:  include(../../../inc/config.php): failed to open stream: No such file or directory in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:12:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../../inc/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:12:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 103
+[15-Jun-2020 10:12:59 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 182
+[15-Jun-2020 10:13:51 Asia/Jakarta] PHP Warning:  include(../../../inc/config.php): failed to open stream: No such file or directory in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:13:51 Asia/Jakarta] PHP Warning:  include(../../../inc/config.php): failed to open stream: No such file or directory in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:13:51 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../../inc/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:13:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 103
+[15-Jun-2020 10:13:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 182
+[15-Jun-2020 10:14:36 Asia/Jakarta] PHP Warning:  include(../../../inc/config.php): failed to open stream: No such file or directory in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:14:36 Asia/Jakarta] PHP Warning:  include(../../../inc/config.php): failed to open stream: No such file or directory in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:14:36 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../../inc/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 48
+[15-Jun-2020 10:14:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 103
+[15-Jun-2020 10:14:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 182
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 53
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 54
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 128
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 129
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 142
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 143
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 156
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 157
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 170
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 171
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 184
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 185
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 198
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 199
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 212
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 213
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 225
+[11-Jul-2020 02:33:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 226
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 53
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 54
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 128
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 129
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 142
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 143
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 156
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 157
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 170
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 171
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 184
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 185
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 198
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 199
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 212
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 213
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 225
+[19-Jul-2020 09:24:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 226
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 53
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 54
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 128
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 129
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 142
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 143
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 156
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 157
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 170
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 171
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 184
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 185
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 198
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 199
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 212
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 213
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 225
+[21-Jul-2020 06:15:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 226
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 53
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 54
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 128
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 129
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 142
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 143
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 156
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 157
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 170
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 171
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 184
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 185
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 198
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 199
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 212
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 213
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 225
+[21-Sep-2020 06:48:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/content.php on line 226

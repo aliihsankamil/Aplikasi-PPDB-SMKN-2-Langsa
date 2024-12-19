@@ -1,0 +1,14 @@
+[15-Jun-2020 03:14:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 103
+[15-Jun-2020 03:14:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 182
+[15-Jun-2020 03:14:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 82
+[15-Jun-2020 03:14:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 182
+[15-Jun-2020 03:17:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 103
+[15-Jun-2020 03:17:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 182
+[15-Jun-2020 03:18:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 103
+[15-Jun-2020 03:18:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 182
+[15-Jun-2020 03:27:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 103
+[15-Jun-2020 03:27:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 182
+[15-Jun-2020 03:27:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 82
+[15-Jun-2020 03:27:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 182
+[15-Jun-2020 03:28:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 103
+[15-Jun-2020 03:28:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/admin/module/CetakAbsen/CetakAbsen.php on line 182

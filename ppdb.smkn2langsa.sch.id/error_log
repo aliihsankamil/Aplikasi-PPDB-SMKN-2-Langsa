@@ -1,0 +1,4 @@
+[11-Aug-2020 17:20:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/proses.php on line 6
+[11-Aug-2020 17:20:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/proses.php on line 7
+[11-Aug-2020 17:32:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/proses.php on line 6
+[11-Aug-2020 17:32:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/smknlan/ppdb.smkn2langsa.sch.id/proses.php on line 7
